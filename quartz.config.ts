@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "电影艺术笔记",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,41 +16,44 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "film.amanerx01.de",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
-      typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+    // 字体配置部分
+    typography: {
+      header: "Inter",           // 更现代的无衬线字体
+      body: "Noto Serif SC",
+      code: "JetBrains Mono",   // 更好的代码字体
+    },
+
+    // 颜色配置部分
+    colors: {
+      lightMode: {
+        light: "#ffffff",           // 纯白背景
+        lightgray: "#f7f7f8",      // 非常浅的灰色
+        gray: "#d1d5db",           // 中等灰色
+        darkgray: "#6b7280",       // 深一些的灰色
+        dark: "#1f2937",           // 深色文字
+        secondary: "#2563eb",       // Claude风格的蓝色
+        tertiary: "#7c3aed",        // 紫色强调色
+        highlight: "rgba(37, 99, 235, 0.1)",     // 淡蓝色高亮
+        textHighlight: "#fef3c7",   // 温暖的黄色文本高亮
       },
-      colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
+      darkMode: {
+        light: "#0f0f0f",          // 深黑背景
+        lightgray: "#1a1a1a",      // 深灰背景
+        gray: "#374151",           // 中等灰色
+        darkgray: "#9ca3af",       // 浅灰色文字
+        dark: "#f9fafb",           // 几乎白色的文字
+        secondary: "#60a5fa",       // 较亮的蓝色
+        tertiary: "#a78bfa",        // 较亮的紫色
+        highlight: "rgba(96, 165, 250, 0.15)",   // 淡蓝色高亮
+        textHighlight: "#fbbf24",   // 金黄色文本高亮
       },
+    },
     },
   },
   plugins: {
