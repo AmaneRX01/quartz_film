@@ -1,6 +1,8 @@
 ---
 title: Georges Méliès
 tags:
+aliases: 
+    - 梅里爱
 ---
 
 # Georges Méliès
