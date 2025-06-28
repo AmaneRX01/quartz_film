@@ -1,8 +1,8 @@
 # 电影艺术——形式与风格
 
-1. 本项目是笔者的读书笔记，属于 CC0 协议。
+1. 本项目是笔者的读书笔记，属于 CC0 协议
 2. 属于笔者个人观点的，会在文中进行标注
-3. 属于非观点的描述内容部分，欢迎同好共同维护，项目托管于 [github](https://github.com/AmaneRX01/quartz_film)。
+3. 属于非观点的描述内容部分，欢迎同好共同维护，项目托管于 [github](https://github.com/AmaneRX01/quartz_film)
 ---
 
 ## 📚 文档内容
@@ -34,4 +34,6 @@
 ## 📖 参考文献
 
 1. [GitHub - jackyzha0/quartz: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites](https://github.com/jackyzha0/quartz)
+2. Thompson, Kristin, and David Bordwell. _Film History: An Introduction_. 3rd ed., McGraw-Hill, 2009.
+3. Salt, Barry. _Film Style and Technology: History and Analysis_. 3rd ed., Starword, 2009.
 ---
