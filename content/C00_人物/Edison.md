@@ -9,4 +9,6 @@ aliases:
 
 # Edison
 
-爱迪生
+# 成员
+
+## Edwin S. Porter
