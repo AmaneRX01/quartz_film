@@ -1,3 +1,5 @@
-1. 本项目是笔者的读书笔记，属于 CC0 协议
+<a href="https://creativecommons.org">amane's filmart note</a> © 2025 by <a href="https://creativecommons.org">AmaneRX01</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+1. 本项目是笔者的读书笔记
 2. 属于笔者个人观点的，会在文中进行标注
 3. 项目通过[Quartz](https://quartz.jzhao.xyz/)发布
