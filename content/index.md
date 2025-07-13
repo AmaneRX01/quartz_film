@@ -2,9 +2,9 @@
 title: 影像艺术——形式与风格
 ---
 
-1. 本项目是笔者的读书笔记，属于 CC0 协议
+1. 本项目是笔者的读书笔记，其中文本部分属于 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议
 2. 属于笔者个人观点的，会在文中进行标注
-3. 属于非观点的描述内容部分，欢迎同好共同维护和充实内容，项目托管于 [github](https://github.com/AmaneRX01/quartz_film)
+3. 欢迎同好共同维护和充实内容，项目托管于 [github](https://github.com/AmaneRX01/quartz_film)，您可以联系我的 [邮箱](amanerx01@gmail.com)
 4. 笔者计划长期维护本项目
 ---
 
@@ -45,4 +45,5 @@ title: 影像艺术——形式与风格
 1. [GitHub - jackyzha0/quartz: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites](https://github.com/jackyzha0/quartz)
 2. Thompson, Kristin, and David Bordwell. _Film History: An Introduction_. 3rd ed., McGraw-Hill, 2009.
 3. Salt, Barry. _Film Style and Technology: History and Analysis_. 3rd ed., Starword, 2009.
+4. Thompson, R., and C.J. Bowen. _Grammar of the Edit_. Focal Press, 2009.
 ---
